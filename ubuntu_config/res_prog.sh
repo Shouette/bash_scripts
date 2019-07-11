@@ -45,3 +45,7 @@ sudo apt-get install -y packaging-dev
 
 # CheckInstall - утилита, позволяющая создавать бинарные пакеты для Linux из исходного кода приложения
 sudo apt-get install -y checkinstall
+
+# Jupyter
+sudo apt-get install -y python-pip3
+sudo pip3 install jupyter 
